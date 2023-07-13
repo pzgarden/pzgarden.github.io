@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "香菜"
-author: Albert
+author: pzgarden
 categories: [ coriander ]
 image: assets/images/2023-07-09-coriander.png
+featured: true
 ---
 
 这个是香菜，开花结籽的模样，有近1米高，花很漂亮😻。
